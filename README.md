@@ -1,7 +1,5 @@
 ### Hi there, I'm Ugur  👋 
 
-
-## I'm a Husband, Father, Developer !!
 - 🔭 I’m currently learning .Net
 - 📫 How to reach me: ugurkeskin35@gmail.com
 
