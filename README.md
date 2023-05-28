@@ -1,6 +1,6 @@
 ### Hi there, I'm Ugur  👋 
 
-- 🔭 I’m currently learning .Net
+- 🔭  .Net
 - 📫 How to reach me: ugurkeskin35@gmail.com
 
 ### Connect with me:
