@@ -37,10 +37,6 @@ NextJs Health Blog [Healthdap](https://www.healthdap.com/)
 <br />
 
 
-  <summary>:zap: GitHub Stats</summary>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurrk35)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 [instagram]: https://instagram.com/ugurkeskin3535
